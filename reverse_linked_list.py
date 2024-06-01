@@ -22,4 +22,6 @@ class Solution:
             previous = curr
             curr = nextptr
 
+        #return new head
         return previous
+
